@@ -17,13 +17,13 @@ The **Connect 4 Web App** is a browser-based implementation of the classic Conne
 Below is a series of screenshots showcasing the current design of the Connect 4 Web App:
 
 ### Initial Game Board
-![Connect 4 Initial Board](data:image/png;base64,...)  
+![Connect 4 Initial Board](data:image/png;base64,PUT_YOUR_BASE64_CODE_HERE)
 
 ### Gameplay in Progress
-![Connect 4 In Progress](data:image/png;base64,...)  
+![Connect 4 In Progress](data:image/png;base64,PUT_YOUR_BASE64_CODE_HERE)
 
 ### Winning State
-![Connect 4 Winning State](data:image/png;base64,...)  
+![Connect 4 Winning State](data:image/png;base64,PUT_YOUR_BASE64_CODE_HERE)
 
 ## How to Play 🕹
 

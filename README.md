@@ -37,4 +37,4 @@ Below is a series of screenshots showcasing the current design of the Connect 4 
 To run this project locally:
 
 1. Clone the repository:
-   https://github.com/omarbasha19/Connect-4-web-app
+https://github.com/omarbasha19/Connect-4-web-app

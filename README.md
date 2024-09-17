@@ -29,7 +29,6 @@ Here are some snapshots showing different stages of the game's design:
 
   ![Winning State](https://github.com/omarbasha19/Connect-4-web-app/blob/main/photos/Screen%203.png?raw=true)
 
-*To add your own images, upload them to a folder named `photos` in your repository and update the image paths accordingly.*
 
 ## How to Play 🕹️
 

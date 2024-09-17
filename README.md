@@ -19,15 +19,15 @@ Take a look at the different stages of the game's design:
 
 - **Initial Game State:**
   
-  ![Initial Game Board](Screenshot 2024-09-17 122405.png)
+  ![Initial Game Board](https://github.com/omarbasha19/Connect-4-web-app/blob/main/photos/Screen%201.png?raw=true)
 
 - **Gameplay in Progress:**
 
-  ![Gameplay in Progress](Screenshot 2024-09-17 122427.png)
+  ![Gameplay in Progress](https://github.com/omarbasha19/Connect-4-web-app/blob/main/photos/Screen%202.png?raw=true)
 
 - **Winning Announcement:**
 
-  ![Winning State](Screenshot 2024-09-17 122446.png)
+  ![Winning State](https://github.com/omarbasha19/Connect-4-web-app/blob/main/photos/Screen%203.png?raw=true)
 
 ## How to Play 🕹️
 

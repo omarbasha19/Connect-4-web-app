@@ -18,6 +18,12 @@ The **Connect 4 Web App** is a browser-based implementation of the classic Conne
 
 ![Game Demo](https://your-image-url.com/game-demo.gif)
 
+## Current Design 🖼
+
+![Current Design](https://your-image-url.com/current-design.png)
+
+The current design is simple and functional, with a minimalistic 4x4 grid layout and a reset button below. This design makes it easy for players to focus on the game without distractions.
+
 ## How to Play 🕹
 
 1. **Start the Game:** Open the web app in your browser. You will see a 4x4 grid board ready for the first move.
@@ -30,5 +36,4 @@ The **Connect 4 Web App** is a browser-based implementation of the classic Conne
 To run this project locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/connect4-web-app.git
+ https://github.com/omarbasha19/Connect-4-web-app

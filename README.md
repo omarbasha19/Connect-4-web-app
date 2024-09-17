@@ -1,7 +1,5 @@
 # Connect 4 Web App 🎮
 
-![Connect 4 Banner](https://your-image-url.com/banner.png)
-
 ## Overview 🌐
 
 The **Connect 4 Web App** is a browser-based implementation of the classic Connect 4 game. It allows two players to compete against each other on a dynamic and responsive 4x4 grid board. This web app leverages HTML, CSS, and JavaScript to deliver a seamless and interactive user experience.
@@ -14,15 +12,18 @@ The **Connect 4 Web App** is a browser-based implementation of the classic Conne
 - **Reset Functionality:** A reset button allows players to start a new game without refreshing the page.
 - **Dynamic UI Updates:** The game board updates in real-time with visual indicators (blue for 'X' and red for 'O').
 
-## Demo 🎥
-
-![Game Demo](https://your-image-url.com/game-demo.gif)
-
 ## Current Design 🖼
 
-![Current Design](https://your-image-url.com/current-design.png)
+Below is a series of screenshots showcasing the current design of the Connect 4 Web App:
 
-The current design is simple and functional, with a minimalistic 4x4 grid layout and a reset button below. This design makes it easy for players to focus on the game without distractions.
+### Initial Game Board
+![Connect 4 Initial Board](data:image/png;base64,...)  
+
+### Gameplay in Progress
+![Connect 4 In Progress](data:image/png;base64,...)  
+
+### Winning State
+![Connect 4 Winning State](data:image/png;base64,...)  
 
 ## How to Play 🕹
 
@@ -36,4 +37,4 @@ The current design is simple and functional, with a minimalistic 4x4 grid layout
 To run this project locally:
 
 1. Clone the repository:
- https://github.com/omarbasha19/Connect-4-web-app
+   https://github.com/omarbasha19/Connect-4-web-app
